@@ -3,7 +3,7 @@
 Files to review: 
 
 
-In the folder **Pages: **
+In the folder **Pages:** 
 
 1) base_page.py
 2) basket_page.py
