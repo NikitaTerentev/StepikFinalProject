@@ -14,6 +14,6 @@ In the folder **Pages:**
 
 And some files on **this page:** 
 1) conftest.py
-2) requirements.txt
+2) requirements.txt (use Faker library)
 3) test_main_page.py
 4) test_product_page.py
